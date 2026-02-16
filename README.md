@@ -1,7 +1,7 @@
 # Hi, I'm Martina Panini 🤖🦾
 **M.Sc. Student in Artificial Intelligence Systems @ UniTN | Robotics & Automation Path**
 
-I am an AI Engineer specializing in the intersection of **Robotics, Computer Vision, and Language Models**. My work focuses on developing autonomous systems that perceive, reason, and interact with the physical world through advanced control theory and parameter-efficient deep learning.
+I am an AI Engineer specializing in Robotics. My work focuses on developing autonomous systems that perceive, reason, and interact with the physical world through advanced control theory and parameter-efficient deep learning.
 
 ---
 
