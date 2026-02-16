@@ -16,7 +16,7 @@ I am an AI Engineer specializing in Robotics. My work focuses on developing auto
 
 ---
 
-### 🏆 Technical Portfolio (Bando-Ready)
+### 🏆 Some of my Projects
 
 #### 🦾 [Giraffe Robot: UR5 Manipulator Control](https://github.com/MartinaPanini/giraffe_robot)
 *Focus: Robotics, Automation, Kinematics*
